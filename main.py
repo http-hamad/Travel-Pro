@@ -9,6 +9,7 @@ def get_user_input() -> str:
     print("=" * 60)
     print("Travel-Pro Multi-Agent System")
     print("=" * 60)
+    # Instructions for the user
     print()
     print("Please enter your travel request:")
     print("(Example: Please plan a trip from New York to Paris for 5 days,")
